@@ -13,7 +13,7 @@ Níveis de Dificuldade
 
 - Normal: os mosquitos aparecem a cada 1.5 segundos.
 - Difícil: os mosquitos aparecem a cada 1 segundo.
-- Impossível: os mosquitos aparecem a cada 0.75 segundos ou menos.
+- Impossível: os mosquitos aparecem a cada 0.75 segundos.
 
  Tecnologias Utilizadas
  
