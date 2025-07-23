@@ -1,2 +1,22 @@
-# project-kill-fly
-Jogo desenvolvido com JavaScript, HTML e CSS, onde o objetivo é clicar nos mosquitos que surgem na tela antes que sumam, medindo a esperteza e a rapidez de quem joga, testando reflexos e agilidade do jogador
+Jogo de Matar Mosquito
+
+Este é um jogo interativo desenvolvido com JavaScript, HTML e CSS, onde o jogador precisa clicar nos mosquitos que aparecem aleatoriamente na tela antes que desapareçam. O jogo testa seus reflexos e oferece três níveis de dificuldade.
+
+ Como Funciona
+
+ - Os mosquitos voam para diferentes pontos no visor.
+- Você precisa clicar em cima de cada mosquito para eliminá-lo.
+- Se algum escapar, você perde uma vida.
+- O jogo termina se você ficar sem chances ou chegar ao fim do tempo.
+
+Níveis de Dificuldade
+
+- Normal: os mosquitos aparecem a cada 1.5 segundos.
+- Difícil: os mosquitos aparecem a cada 1 segundo.
+- Impossível: os mosquitos aparecem a cada 0.75 segundos ou menos.
+
+ Tecnologias Utilizadas
+ 
+- HTML5
+- CSS3
+- JavaScript
