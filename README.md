@@ -1,13 +1,6 @@
 Jogo de Matar Mosquito
 
-Este é um jogo interativo desenvolvido com JavaScript, HTML e CSS, onde o jogador precisa clicar nos mosquitos que aparecem aleatoriamente na tela antes que desapareçam. O jogo testa seus reflexos e oferece três níveis de dificuldade.
-
- Como Funciona
-
- - Os mosquitos voam para diferentes pontos no visor.
-- Você precisa clicar em cima de cada mosquito para eliminá-lo.
-- Se algum escapar, você perde uma vida.
-- O jogo termina se você ficar sem chances ou chegar ao fim do tempo.
+Este é um jogo interativo desenvolvido com JavaScript, HTML e CSS, onde o jogador precisa clicar nos mosquitos que aparecem aleatoriamente na tela antes que desapareçam.
 
 Níveis de Dificuldade
 
@@ -17,6 +10,6 @@ Níveis de Dificuldade
 
  Tecnologias Utilizadas
  
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
